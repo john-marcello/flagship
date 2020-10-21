@@ -14293,13 +14293,14 @@ react-native-video@^5.0.0:
     prop-types "^15.5.10"
     shaka-player "^2.4.4"
 
-react-native-web-image-loader@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/react-native-web-image-loader/-/react-native-web-image-loader-0.0.7.tgz#4055a3b2e0c0fc8b0ccc2273d46a153e29ac5e85"
-  integrity sha512-OKEtqosNF5ow7X2bZT2DgEpVBP8bT1h4ycWU3inWKU6bHF2JscYIQFZaFtWKtHbjlVa6o97vVUx2lYhLlozV8A==
+react-native-web-image-loader@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-web-image-loader/-/react-native-web-image-loader-0.1.1.tgz#a320903ee477b7a3deb49fb7568924364eac7bf5"
+  integrity sha512-hqxo9OGnpDBgYhm8RKqWiG+bnwnDIT29BxJMLpLsQErG2UcVUmZTFO7L9Ika6XLBHMtXWXLejDSaltTMYM7Kog==
   dependencies:
     image-size "^0.5.1"
-    loader-utils "^0.2.16"
+    loader-utils "^2.0.0"
+    schema-utils "^2.6.6"
 
 react-native-web-modal@^1.0.1:
   version "1.0.1"
@@ -15189,7 +15190,7 @@ schema-utils@^1.0.0:
     ajv-errors "^1.0.0"
     ajv-keywords "^3.1.0"
 
-schema-utils@^2.0.0, schema-utils@^2.5.0, schema-utils@^2.6.5, schema-utils@^2.7.0:
+schema-utils@^2.0.0, schema-utils@^2.5.0, schema-utils@^2.6.5, schema-utils@^2.6.6, schema-utils@^2.7.0:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-2.7.1.tgz#1ca4f32d1b24c590c203b8e7a50bf0ea4cd394d7"
   integrity sha512-SHiNtMOUGWBQJwzISiVYKu82GiV4QYGePp3odlY1tuKO7gPtphAT5R/py0fA6xtbgLL/RvtJZnU9b8s0F1q0Xg==
